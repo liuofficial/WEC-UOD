@@ -1,0 +1,11 @@
+path: /home/ubuntu/tupeng/datasets/DUO_YOLO
+
+train: train
+val: val
+test: test
+names:
+  0: holothurian
+  1: echinus
+  2: scallop
+  3: starfish
+

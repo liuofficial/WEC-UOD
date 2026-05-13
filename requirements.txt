@@ -1,0 +1,5 @@
+Ubuntu 20.04
+Python 3.10
+PyTorch 2.7.1
+CUDA 11.8
+NVIDIA RTX 4090
